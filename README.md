@@ -16,30 +16,6 @@
 - **Outros:** HTML, CSS, Autenticação com Google, Integração com Stripe  
 
 ---
-
-## 📌 Projetos em Destaque  
-
-### 🛍️ E-commerce de Roupas e Calçados  
-Plataforma completa de e-commerce desenvolvida com **Next.js**, integrada ao **Stripe** para pagamentos e autenticação via **Google**.  
-- Layout moderno com **Tailwind + Shadcn**  
-- Carrinho dinâmico e fluxo de checkout seguro  
-- Backend integrado com PostgreSQL e APIs escaláveis  
-
-### ✂️ App de Agendamento para Barbearia  
-Aplicativo para gestão de horários de barbearia, focado em praticidade e experiência do usuário.  
-- Desenvolvido em **Next.js** com autenticação via **Google**  
-- Interface responsiva e intuitiva (**Tailwind + Shadcn**)  
-- Sistema de agendamento otimizado e escalável  
-
-
-## 🌐 Onde me encontrar  
-
-📩 **Email:** washington.chagas.9@hotmail.com 
-💼 **LinkedIn:** https://www.linkedin.com/in/washington-chagas
-🌍 **Portfólio:** https://washington-chagas-portifolio.vercel.app  
-
-<h2 align="left">Linguagens e Ferramentas</h2>
-
 ###
 
 <div align="left">
@@ -71,6 +47,29 @@ Aplicativo para gestão de horários de barbearia, focado em praticidade e exper
 </div>
 
 ###
+
+## 📌 Projetos em Destaque  
+
+### 🛍️ E-commerce de Roupas e Calçados  
+Plataforma completa de e-commerce desenvolvida com **Next.js**, integrada ao **Stripe** para pagamentos e autenticação via **Google**.  
+- Layout moderno com **Tailwind + Shadcn**  
+- Carrinho dinâmico e fluxo de checkout seguro  
+- Backend integrado com PostgreSQL e APIs escaláveis  
+
+### ✂️ App de Agendamento para Barbearia  
+Aplicativo para gestão de horários de barbearia, focado em praticidade e experiência do usuário.  
+- Desenvolvido em **Next.js** com autenticação via **Google**  
+- Interface responsiva e intuitiva (**Tailwind + Shadcn**)  
+- Sistema de agendamento otimizado e escalável  
+
+
+## 🌐 Onde me encontrar  
+
+📩 **Email:** washington.chagas.9@hotmail.com 
+💼 **LinkedIn:** https://www.linkedin.com/in/washington-chagas
+🌍 **Portfólio:** https://washington-chagas-portifolio.vercel.app  
+
+
 
 <br clear="both">
 
