@@ -9,11 +9,11 @@
 
 ## 🚀 Tecnologias e Ferramentas  
 
-- **Frontend:** React, Next.js, TailwindCSS, Shadcn/UI  
+- **Frontend:** React, React Native, Next.js, TailwindCSS, Shadcn/UI  
 - **Backend:** Node.js, NestJS  
-- **Banco de Dados:** PostgreSQL  
+- **Banco de Dados:** PostgreSQL, Dynamodb  
 - **DevOps & Cloud:** Docker, AWS  
-- **Outros:** HTML, CSS, Autenticação com Google, Integração com Stripe  
+- **Outros:** HTML, CSS, Autenticação com Google, Integração com Stripe, Serverless Framework  
 
 ---
 ###
