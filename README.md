@@ -50,6 +50,16 @@
 
 ## 📌 Projetos em Destaque  
 
+### 🥝 Aplicativo de dieta com IA integrada  
+BackEnd desenvolvido com Node, Typescript, Clean Architecture, Lambda function, Cognito, SES, SQS, S3, Serverless Framework
+FrontEnd desenvolvido com React Native, zod, react hook form, Tanstack Query, zustand
+Banco de dados criado com DynamoDB
+
+### 📊 CRM para empresa de despachante 
+BackEnd desenvolvido com Node, Typescript, Clean Architecture, Lambda function, Cognito, SES, S3, Serverless Framework
+FrontEnd desenvolvido com React(Vite), zod, react hook form, Tanstack Query, zustand, tailwindCss, ShadCN Ui
+Banco de dados criado com DynamoDB
+
 ### 🛍️ E-commerce de Roupas e Calçados  
 Plataforma completa de e-commerce desenvolvida com **Next.js**, integrada ao **Stripe** para pagamentos e autenticação via **Google**.  
 - Layout moderno com **Tailwind + Shadcn**  
